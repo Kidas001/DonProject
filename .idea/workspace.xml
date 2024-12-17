@@ -5,90 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c15bfe0-8c4d-4972-9a48-b5435693fa55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/DonationMsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/controllers/DonationRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/entities/Donation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/Organisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/repos/DonationRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/OrganisationRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/UserRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS/src/test/java/com/example/donationms/DonationMsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/main/java/com/example/eurekadiscovery/EurekaDiscoveryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/test/java/com/example/eurekadiscovery/EurekaDiscoveryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/OrganisationMsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/dtos/OrganisationDTORequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/dtos/OrganisationDTOResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/entities/Organisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/mappers/OrganisationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/repos/OrganisationRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/services/OrganisationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/services/OrganisationServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/web/OrganisationGraphqlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/web/OrganisationRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS/src/test/java/com/example/organisationms/OrganisationMsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/UserMsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/dtos/UserDTORequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/dtos/UserDTOResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/entities/UserProjection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/exceptions/CustomDataFetcherExceptionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/mappers/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/repos/UserRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/services/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/web/UserGraphqlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/web/UserRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/main/resources/graphql/schema.graphqls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS/src/test/java/com/example/userms/UserMsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-Server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-Server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/donationMS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
