@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c15bfe0-8c4d-4972-9a48-b5435693fa55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/DonationMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/controllers/DonationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/entities/Donation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/Organisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/repos/DonationRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/OrganisationRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/java/com/example/donationms/service/UserRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donationMS/src/test/java/com/example/donationms/DonationMsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/main/java/com/example/eurekadiscovery/EurekaDiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-discovery/src/test/java/com/example/eurekadiscovery/EurekaDiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/OrganisationMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/dtos/OrganisationDTORequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/dtos/OrganisationDTOResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/entities/Organisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/mappers/OrganisationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/repos/OrganisationRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/services/OrganisationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/services/OrganisationServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/web/OrganisationGraphqlController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/java/com/example/organisationms/web/OrganisationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organisationMS/src/test/java/com/example/organisationms/OrganisationMsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/UserMsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/dtos/UserDTORequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/dtos/UserDTOResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/entities/UserProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/exceptions/CustomDataFetcherExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/mappers/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/repos/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/web/UserGraphqlController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/java/com/example/userms/web/UserRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/main/resources/graphql/schema.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userMS/src/test/java/com/example/userms/UserMsApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/donationMS" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p4oAm38VmMUaqio3FiUlqAO6UB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DiscoveryClientServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DonationMsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaDiscoveryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.OrganisationMsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.UserMsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayoub/OneDrive/Bureau/Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\donationMS\src\main\java\com\example\donationms" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\gateway-service\src\main\resources" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\organisationMS\src\main\java\com\example\organisationms" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\userMS\src\main\resources" />
+      <recent name="C:\Users\user\Desktop\5IIR\JEE\Project\userMS\src\main\java\com\example\userms" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserMsApplication">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Config-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryClientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DiscoveryClientService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.discoveryclientservice.DiscoveryClientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DonationMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="donationMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.donationms.DonationMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekadiscovery.EurekaDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganisationMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="organisationMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.organisationms.OrganisationMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="userMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userms.UserMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c15bfe0-8c4d-4972-9a48-b5435693fa55" name="Changes" comment="" />
+      <created>1732034569002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732034569002</updated>
+      <workItem from="1732034570084" duration="4198000" />
+      <workItem from="1734450966713" duration="6042000" />
+      <workItem from="1734465918049" duration="4092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$UserMsApplication.ic" NAME="UserMsApplication Coverage Results" MODIFIED="1734451157370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
